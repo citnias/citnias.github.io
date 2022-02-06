@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.login {
+margin: auto;
+margin-top: 200px;
+padding-top: 10px;
+width: 300px;
+height: 230px;
+font-family: arial;
+}
+
+h3 {
+font-weight: bold;
+}
+
+#username {
+margin-left: 10px;
+}
+
+#password {
+margin-left: 10px;
+}
+  
